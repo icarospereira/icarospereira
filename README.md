@@ -1,4 +1,4 @@
-# Hello, I'm Icaro Pereira
+## Hello, I'm Icaro Pereira
 
 My main focus is frontend development. <br> 
 I'm currently studying Angular and refining skills in Typescript while looking foward for my first oportunity in the tech environment.
